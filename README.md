@@ -106,12 +106,12 @@ Al poder calcular el indice de confiabilidad el mejor barrio a invertir es **PAL
 
 - **Grafico de Barras:**
 
-![alt text](images/Palermo_ind_confianza.png)
+![](https://github.com/JPeraltaBorjas/Proyecto-integrador-M5-Airbnb/blob/main/Images/Palermo_ind_confianza.png)
 
 - **Grafico de barras en el año:** Nos indica como ha ido evolucionando en el barrio de Palermo, donde se ve un incremento notorio en la tasa de ocupación y en la rentabilidad, pero es necesario considerar que el recuento comienza en abril del año del 2020 momento en el cuál se encontraban las políticas de COVID que restringían el turismo razón por la cual hubo una baja considerable de la renta de alojamiento.
 
 
-![alt text](images/Palermo_año.png)
+![](https://github.com/JPeraltaBorjas/Proyecto-integrador-M5-Airbnb/blob/main/Images/Palermo_a%C3%B1o.png)
 
 Y es por las razones antes mencionadas que Palermo es el mejor lugar para invertir y de hacerlo de manera inmediata se aprovecharía el posicionamiento en el mercado por el crecimiento de la demanda en los siguientes meses.
 
@@ -121,7 +121,7 @@ En cuanto al tipo de propiedad elegimos para invertir la propiedad de **apartame
 
 El indice de confianza nos denota que los apartamentos son 7 veces más confiables que los condominios que están en segundo lugar, en donde la gente va a hospedarse.
 
-![alt text](images/image.png)
+![](https://github.com/JPeraltaBorjas/Proyecto-integrador-M5-Airbnb/blob/main/Images/image.png)
 
 En terminos de rentabilidad, se puede decir que los apartamentos en Palermo tienen una rentabilidad de alrededor 20.7 millones de dolares incluso frente a 4.9 millones de dolares que dejan los condominios.
 
