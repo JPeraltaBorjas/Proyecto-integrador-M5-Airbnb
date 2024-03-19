@@ -107,6 +107,7 @@ Al poder calcular el indice de confiabilidad el mejor barrio a invertir es **PAL
 - **Grafico de Barras:**
 
 ![](https://github.com/JPeraltaBorjas/Proyecto-integrador-M5-Airbnb/blob/main/Images/Palermo_ind_confianza.png)
+![](https://github.com/JPeraltaBorjas/Proyecto-integrador-M5-Airbnb/blob/main/Images/Palermo_demanda.png)
 
 - **Grafico de barras en el año:** Nos indica como ha ido evolucionando en el barrio de Palermo, donde se ve un incremento notorio en la tasa de ocupación y en la rentabilidad, pero es necesario considerar que el recuento comienza en abril del año del 2020 momento en el cuál se encontraban las políticas de COVID que restringían el turismo razón por la cual hubo una baja considerable de la renta de alojamiento.
 
